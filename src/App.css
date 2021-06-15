@@ -3,9 +3,10 @@
 }
 
 .App-logo {
-  height: 20px;
-  margin-bottom: -20px; 
-  width: 20px;
+  height: 40px;
+  margin-bottom: -20px;
+  margin-left: 10px; 
+  width: 40px;
 }
 
 .App-header {
@@ -14,7 +15,7 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: #FF4500;
   font-size: 15px;
   margin-left: 10px;
 }
