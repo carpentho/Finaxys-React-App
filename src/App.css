@@ -3,22 +3,20 @@
 }
 
 .App-logo {
-  color: #FFFFFF;
-  display: flex;
-  flex-direction: column;
-  font-size: calc(10px + 2vmin);
-  margin-bottom: -20px;
-  min-height: 10vh;
+  height: 20px;
+  margin-bottom: -20px; 
+  width: 20px;
 }
 
 .App-header {
-  height: 40vmin;
+  height: 50px;
   text-align: left;
 }
 
 .App-link {
   color: #61dafb;
   font-size: 15px;
+  margin-left: 10px;
 }
 
 
